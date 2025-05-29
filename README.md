@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Guialves013
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in conhecer diversas areas de desenvolvimento
+- 🌱 I’m currently learning e tenho interesse em aprender mais 
 
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 
 <!---
 Guialves013/Guialves013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
